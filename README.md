@@ -8,14 +8,6 @@ From 2023 to 2025, he was a Post-Doctoral Researcher with the Chair of Earth Obs
 
 ---
 
-## 📚 Publications
-
-My publications and research work can be found in google scholar.
-
-👉 [Google Scholar](https://scholar.google.com/citations?user=sD4C7tkAAAAJ&hl=en)
-
----
-
 ## 📫 Contact
 
 - 📧 Email: yanyanzhang@eis.t.u-tokyo.ac.jp
