@@ -10,7 +10,7 @@ From 2023 to 2025, he was a Post-Doctoral Researcher with the Chair of Earth Obs
 
 ## 📫 Contact
 
-- 📧 Email: yanyanzhang@eis.t.u-tokyo.ac.jp
+- 📧 Email: yanyanzhang@eis.t.u-tokyo.ac.jp / caszyymail@163.com
 - 🎓 Google Scholar: [Profile](https://scholar.google.com/citations?user=sD4C7tkAAAAJ&hl=en)
 - 🆔 ORCID: [ORCID](https://orcid.org/0000-0002-3497-4474)
 
