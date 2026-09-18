@@ -8,14 +8,6 @@ From 2023 to 2025, he was a Post-Doctoral Researcher with the Chair of Earth Obs
 
 ---
 
-## 🔬 Research Interests
-
-- Synthetic Aperture Radar (SAR)
-- InSAR
-- Signal Processing
-
----
-
 ## 📚 Publications
 
 My publications and research work can be found in google scholar.
