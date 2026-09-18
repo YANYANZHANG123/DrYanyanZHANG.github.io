@@ -1,5 +1,8 @@
 # Dr. Yanyan Zhang
 
+![Banner](./yanyanzhang.png)
+<img src="./yanyanzhang" width="600" height="200">
+
 ### 🛰️ Radar Remote Sensing | Synthetic Aperture Radar (SAR) | InSAR | Signal Processing
 
 He received the B.S. degree in electronic and information engineering from Hunan University, Changsha, China, in 2017, and the Ph.D. degree in communication and information systems from the University of Chinese Academy of Sciences, Beijing, China, in 2022.
