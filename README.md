@@ -1,4 +1,3 @@
-# DrYanyanZHANG.github.io
 # 👋 Hi, I'm Yanyan Zhang
 
 ### 🛰️ Radar Remote Sensing | SAR | InSAR | Deep Learning
