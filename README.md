@@ -1,6 +1,6 @@
 # Yanyan Zhang
 
-<img src="./zhang.png" width="118" height="150">
+<img src="./zhang.png" width="212" height="265">
 
 ### 🛰️ Radar Remote Sensing | Synthetic Aperture Radar (SAR) | InSAR | Signal Processing
 
