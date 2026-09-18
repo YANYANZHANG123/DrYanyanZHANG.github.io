@@ -26,7 +26,7 @@ My publications and research work can be found in google scholar.
 
 ## 📫 Contact
 
-- 📧 Email: caszyymail@163.com
+- 📧 Email: yanyanzhang@eis.t.u-tokyo.ac.jp
 - 🎓 Google Scholar: [Profile](https://scholar.google.com/citations?user=sD4C7tkAAAAJ&hl=en)
 - 🆔 ORCID: [ORCID](https://orcid.org/0000-0002-3497-4474)
 
