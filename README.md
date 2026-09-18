@@ -1,4 +1,4 @@
-# Yanyan ZHANG
+# Dr. Yanyan Zhang
 
 ### 🛰️ Radar Remote Sensing | Synthetic Aperture Radar (SAR) | InSAR | Signal Processing
 
