@@ -8,7 +8,7 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 ## 🔬 Research Interests
 * 🛰️ Distributed SAR (clock synchronization, satellite formation, DEM generation)
 * 🛰️ HRWS-SAR (azimuth multichannel, elevation digital beamforming, imaging mode)
-* 🌍 MIMO-SAR/Very-Long-Baseline MIMO-SAR (waveform encoding, echo seperation, signal model)
+* 🌍 MIMO-SAR (orthogonal waveform encoding, echo seperation)
 * ⚡ SAR signal model and imaging processing
 * 🌱 SAR applications for Earth observation
 ---
@@ -22,7 +22,7 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 ---
 
 ## 🛰️ Publications
-#### o 2026
+####  2026
 * **Yanyan Zhang**, Akira Hirose, Wei Cao, Ryo Natsuaki, Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method, IEEE Transactions on Geoscience and Remote Sensing, 2026.
 * **Yanyan Zhang**, Akira Hirose, Ryo Natsuaki, Virtual Delay-Emission (VDE): An HRWS Imaging Mode for Spaceborne MIMO-SAR, *IEEE Geoscience and Remote Sensing Letters*, 2025.
 * **Yanyan Zhang**, Akira Hirose, Ryo Natsuaki, A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SAR, *IEEE Geoscience and Remote Sensing Letters*, 2025.
