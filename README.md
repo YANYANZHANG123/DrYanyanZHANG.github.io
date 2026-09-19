@@ -23,48 +23,23 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 
 ## 🛰️ Research Projects
 #### LuTan-1 Spaceborne Bistatic SAR
-* **First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1**, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
 * **Demonstration of Phase-Preserving Synchronization RFI Suppression for L-Band Spaceborne Bistatic Interferometric SAR**, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024.
 * **An Advanced Interferometric Baseline Estimation Method (IBEM) for Spaceborne Bistatic SAR**, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024.
-#### MIMO-SAR
+* **First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1**, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
 
-Research on advanced MIMO-SAR architectures for future high-resolution and wide-swath SAR systems.
-
-Research topics include:
-
-* MIMO-SAR signal modeling
-* Orthogonal waveform encoding
-* Echo separation
-* Virtual delay-emission (VDE)
-* High-resolution imaging
-* Wide-swath imaging
-* Multi-channel signal processing
-* Range and azimuth ambiguity suppression
-
-One of the early experimental studies demonstrated echo separation for orthogonal waveform-encoding MIMO-SAR using airborne data.
-
----
-
-## Very-Long-Baseline MIMO-SAR
-
-A research direction toward future multi-satellite SAR systems with **very long inter-satellite baselines**.
-
-The research investigates:
-
-* Bistatic SAR geometry
-* Multi-satellite formation design
-* Beam positioning
-* Incidence-angle and PRF constraints
-* NESZ
-* RASR
-* AASR
-* Bistatic imaging performance
-* Large bistatic-angle effects
-* Multi-channel and multi-platform SAR configurations
-
----
+#### Space-/air-borne MIMO-SAR
+* **Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method**, *IEEE Transactions on Geoscience and Remote Sensing*, 2026.
+* **Virtual Delay-Emission (VDE): An HRWS Imaging Mode for Spaceborne MIMO-SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2025.
+* **First Demonstration of Echo Separation for Orthogonal Waveform Encoding MIMO-SAR Based on Airborne Experiments**, *IEEE Transactions on Geoscience and Remote Sensing*, 2022.
 
 ## High-Resolution Wide-Swath SAR
+* **New Insights Into Alternating Transmitting Mode (ATM) for Bistatic Multichannel SAR**, *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
+* **A Novel Weighted Amplitude Modulation (WAM) System for Ambiguity Suppression of Spaceborne Hybrid Quad-Pol SAR**, *Remote Sensing*, 2021.
+* **An Innovative Multiswath Jump Imaging Mode for Spaceborne SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2020.
+* 
+## Very-Long-Baseline MIMO-SAR
+
+
 
 Research on advanced SAR architectures that simultaneously achieve high spatial resolution and wide imaging swath.
 
