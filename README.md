@@ -47,10 +47,9 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * **An Innovative Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2021.
 * **An Innovative Superpolyhedron (SP) Formation for Multistatic SAR (M-SAR) Interferometry**, *IEEE Transactions on Geoscience and Remote Sensing*, 2021.
 
-
-
 #### Very-Long-Baseline MIMO-SAR
-
+* **An Innovative Link-Free Permanent-C (LFPC) Phase Synchronization Scheme for Distributed SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2023.
+* **An Innovative Link-Free Permanent-C (LFPC) Phase Synchronization Scheme for Distributed SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2023.
 
 
 Research on advanced SAR architectures that simultaneously achieve high spatial resolution and wide imaging swath.
