@@ -31,9 +31,9 @@ My research interests include:
 
 ## 🎓 Education
 #### Ph.D. in Communication and Information Systems
-**University of Chinese Academy of Sciences** Beijing, China
+**University of Chinese Academy of Sciences**, Beijing, China, 2022
 #### B.S. in Electronic Information Engineering
-**Hunan University** Changsha, China
+**Hunan University**, Changsha, China, 2017
 
 ---
 
