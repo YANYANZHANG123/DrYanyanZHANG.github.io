@@ -51,7 +51,7 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 * EUSAR 2026
 * EUSAR 2024
 * EUSAR 2021
-IEEE IGARSS 2026
+* IEEE IGARSS 2026
 * IEEE IGARSS 2025
 * IEEE IGARSS 2024
 * IEEE IGARSS 2023
@@ -87,7 +87,7 @@ IEEE IGARSS 2026
 
 <div align="center">
  
-<b>SAR Remote Sensing · Distributed SAR · HRWS-SAR · MIMO-SAR</b>
+<b>SAR Remote Sensing · Distributed SAR · HRWS-SAR · MIMO-SAR: </b>
 
 <i>Exploring advanced SAR technologies for high-precision Earth observation.</i>
 
