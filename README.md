@@ -33,9 +33,9 @@ My research interests include:
 #### Ph.D. in Communication and Information Systems, University of Chinese Academy of Sciences, Beijing, China, 2022
 #### B.S. in Electronic Information Engineering, Hunan University, Changsha, China, 2017
 ## 💼 Experience
-#### The University of Tokyo, Tokyo, Japan, 2025-present
-#### ETH Zurich, Zurich, Switzerland, 2023-2025
-#### National Key Laboratory of Microwave Imaging, Beijing, China, 2022-2023
+#### The University of Tokyo, Tokyo, Japan, 2025-present (JSPS Fellow)
+#### ETH Zurich, Zurich, Switzerland, 2023-2025 (Postdoc)
+#### National Key Laboratory of Microwave Imaging, Beijing, China, 2022-2023 (Seinor Scientist)
 ---
 
 ## 🔬 Research Interests
