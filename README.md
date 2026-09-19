@@ -32,12 +32,17 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * **Virtual Delay-Emission (VDE): An HRWS Imaging Mode for Spaceborne MIMO-SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2025.
 * **First Demonstration of Echo Separation for Orthogonal Waveform Encoding MIMO-SAR Based on Airborne Experiments**, *IEEE Transactions on Geoscience and Remote Sensing*, 2022.
 
-## High-Resolution Wide-Swath SAR
+#### High-Resolution Wide-Swath SAR
 * **New Insights Into Alternating Transmitting Mode (ATM) for Bistatic Multichannel SAR**, *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
 * **A Novel Weighted Amplitude Modulation (WAM) System for Ambiguity Suppression of Spaceborne Hybrid Quad-Pol SAR**, *Remote Sensing*, 2021.
 * **An Innovative Multiswath Jump Imaging Mode for Spaceborne SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2020.
-* 
-## Very-Long-Baseline MIMO-SAR
+
+#### Spaceborne distributed SAR
+* **An Innovative Link-Free Permanent-C (LFPC) Phase Synchronization Scheme for Distributed SAR**, *IEEE Transactions on Geoscience and Remote Sensing*, 2023.
+* **An Innovative Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2021.
+* **An Innovative Superpolyhedron (SP) Formation for Multistatic SAR (M-SAR) Interferometry**, *IEEE Transactions on Geoscience and Remote Sensing*, 2021.
+
+#### Very-Long-Baseline MIMO-SAR
 
 
 
