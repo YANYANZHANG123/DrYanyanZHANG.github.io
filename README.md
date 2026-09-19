@@ -83,7 +83,7 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 ## 🔗 Academic Links
 * 🎓 **Google Scholar:** [Yanyan Zhang](https://scholar.google.com/citations?user=sD4C7tkAAAAJ&hl=en)
 * 🆔 **ORCID:** [0000-0002-3497-4474](https://orcid.org/0000-0002-3497-4474)
-* 📧 **Email:** [yanyanzhang@eis.t.u-tokyo.ac.jp] / [caszyymail@163.com]
+* 📧 **Email:** [yanyanzhang@eis.t.u-tokyo.ac.jp](#) / [caszyymail@163.com](#)
 
 <div align="center">
 <b>SAR Remote Sensing · Distributed SAR · HRWS-SAR · MIMO-SAR<b>
