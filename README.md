@@ -42,6 +42,10 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * **An Innovative Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2021.
 * **An Innovative Superpolyhedron (SP) Formation for Multistatic SAR (M-SAR) Interferometry**, *IEEE Transactions on Geoscience and Remote Sensing*, 2021.
 
+#### ALOS-4 Ambiguity Suppression
+* **Azimuth Fractional Ambiguity Suppression for Spaceborne HRWS-SAR**, *IEEE Transactions on Geoscience and Remote Sensing*, (under review).
+* **A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SARR**, *IEEE Geoscience and Remote Sensing Letters*, 2025.
+
 #### Very-Long-Baseline MIMO-SAR
 
 
