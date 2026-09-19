@@ -42,32 +42,16 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * **An Innovative Multiswath Jump Imaging Mode for Spaceborne SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2020.
 
 #### Spaceborne distributed SAR
-* **An Innovative Link-Free Permanent-C (LFPC) Phase Synchronization Scheme for Distributed SAR**, *IEEE Transactions on Geoscience and Remote Sensing*, 2023.
-* **An Innovative Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2021.
+* **An Innovative Link-Free Permanent-C (LFPC) Phase Synchronization Scheme for Distributed SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2023.
+* **The Real-Time Framework of the Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2023
+* **An Innovative Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR**, *IEEE Transactions on Geoscience and Remote Sensing*, 2021.
 * **An Innovative Superpolyhedron (SP) Formation for Multistatic SAR (M-SAR) Interferometry**, *IEEE Transactions on Geoscience and Remote Sensing*, 2021.
 
 #### Lunar SAR system for water detection
-* **An Innovative Synthetic Aperture Radar Design Method for Lunar Water-ice Exploration**, *Remote Sensing*, 2023.
+* **An Innovative Synthetic Aperture Radar Design Method for Lunar Water-ice Exploration**, *Remote Sensing*, 2022.
 
 #### Very-Long-Baseline MIMO-SAR
-* **An Innovative Link-Free Permanent-C (LFPC) Phase Synchronization Scheme for Distributed SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2023.
-* **An Innovative Link-Free Permanent-C (LFPC) Phase Synchronization Scheme for Distributed SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2023.
-
-
-Research on advanced SAR architectures that simultaneously achieve high spatial resolution and wide imaging swath.
-
-Topics include:
-
-* Multichannel SAR
-* Digital beamforming
-* Alternating transmitting mode (ATM)
-* Staggered SAR
-* Variable PRF
-* Azimuth ambiguities
-* Fractional ambiguities
-* Range ambiguity suppression
-* Pulse-width-extension loss compensation
-
+* **A Concept of Very-Long-Baseline MIMO-SAR**, *IEEE AP-GRASS*, 2026.
 ---
 
 # 📚 Selected Publications
