@@ -19,7 +19,7 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 * University of Chinese Academy of Sciences, Beijing, China, 2017-2022 (Ph.D. of Engineering)
 * Hunan University, Changsha, China, 2013-2017 (B.S. of Engineering)
 
-## 📚 Journal
+## 📚 Journals
 ####  2026
 * **Yanyan Zhang**, Akira Hirose, Wei Cao, Ryo Natsuaki, Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method, *IEEE Transactions on Geoscience and Remote Sensing*, 2026.
 ####  2025
@@ -45,7 +45,7 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 * **Yanyan Zhang**, Heng Zhang, Naiming Ou, Kaiyu Liu, Da Liang, Yunkai Deng, Robert Wang, First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
 
 
-## 📚 Conference
+## 📚 Conferences
 * The Joint PI Meeting of JAXA Earth Observation Missions FY2025
 * IEEE AP-GARSS 2026
 * EUSAR 2026
@@ -73,7 +73,7 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 * First prize of **NXP Cup** National University Students Intelligent Car Race, 2016
 * Third prize of **TI Cup** Hunan College Students Electronics Design Contest, 2016
 
-## 📄 Academic roles
+## 📄 Academic Roles
 * Guest editor for two Special Issues in **Remote Sensing**
 * IEEE International Conference on Signal Processing and Information Security, TPC, 2026
 * Session Chair for IEEE IGARSS 2025
