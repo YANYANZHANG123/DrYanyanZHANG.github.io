@@ -81,6 +81,7 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 * Invited reviewer for IEEE TGRS/IEEE TIP/IEEE TAES/ IEEE TRS/IEEE JSTARS/IEEE GRSL/IEEE Access/ ISPRS Journal of Photogrammetry and Remote Sensing/Communications Earth and Environment/IEEE Sensors Journal/Remote Sensing/Remote Sensing Letters/IEE Electronics Letters/IGARSS...
 
 ## 🔗 Academic Links
+* 💼 **Linkedin:** [Yanyan Zhang](https://www.linkedin.com/in/yanyan-zhang-2b35b4307/)
 * 🎓 **Google Scholar:** [Yanyan Zhang](https://scholar.google.com/citations?user=sD4C7tkAAAAJ&hl=en)
 * 🆔 **ORCID:** [0000-0002-3497-4474](https://orcid.org/0000-0002-3497-4474)
 * 📧 **Email:** [yanyanzhang@eis.t.u-tokyo.ac.jp](#) / [caszyymail@163.com](#)
