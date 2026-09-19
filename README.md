@@ -21,7 +21,7 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * 🖊 B.S. of Engineering, Hunan University, Changsha, China, 2013-2017
 ---
 
-## 🛰️ Research Achievements (first author)
+## 🛰️ Achievements as first author
 #### ALOS-4 Azimuth Ambiguity Suppression
 * **Azimuth Fractional Ambiguity Suppression for Spaceborne HRWS-SAR**, *IEEE Transactions on Geoscience and Remote Sensing*, under review.
 * **A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2025.
