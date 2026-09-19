@@ -60,8 +60,6 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * IEEE Radar Conference 2020
 * APSAR 2019
 
----
-
 ## 🏆 Awards & Honors
 * Grant-in-Aid for JSPS Fellows (25KF0102), 2025/07-2027/04
 * FY 2025 JSPS Postdoctoral Fellowships for Research in Japan (Standard), 2025
@@ -74,6 +72,13 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * Best bachelor dissertation of Hunan University, 2017
 * First prize of **NXP Cup** National University Students Intelligent Car Race, 2016
 * Third prize of **TI Cup** Hunan College Students Electronics Design Contest, 2016
+
+## 📄 Academic roles
+* Guest editor for two Special Issues in **Remote Sensing**
+* IEEE International Conference on Signal Processing and Information Security, TPC, 2026
+* Session Chair for IEEE IGARSS 2025
+* Session Co-Chair for EUSAR 2024
+* Invited reviewer for IEEE TGRS/IEEE TIP/IEEE TAES/ IEEE TRS/IEEE JSTARS/IEEE GRSL/IEEE Access/ ISPRS Journal of Photogrammetry and Remote Sensing/Communications Earth and Environment/IEEE Sensors Journal/Remote Sensing/Remote Sensing Letters/IEE Electronics Letters...
 
 ## 🔗 Academic Links
 * 🎓 **Google Scholar:** [Yanyan Zhang](https://scholar.google.com/citations?user=sD4C7tkAAAAJ&hl=en)
