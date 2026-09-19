@@ -24,8 +24,9 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 ## 🛰️ Research Projects
 #### LuTan-1 Spaceborne Bistatic SAR
 * **First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1**, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
-* High-precision interferometric baseline estimation
-* Synchronization RFI suppression
+* **Demonstration of Phase-Preserving Synchronization RFI Suppression for L-Band Spaceborne Bistatic Interferometric SAR**, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024.
+* **An Advanced Interferometric Baseline Estimation Method (IBEM) for Spaceborne Bistatic SAR**, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024.
+
 ---
 #### MIMO-SAR
 
