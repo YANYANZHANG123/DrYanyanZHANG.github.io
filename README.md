@@ -92,11 +92,3 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 <i>Exploring advanced SAR technologies for high-precision Earth observation.</i>
 
 </div>
-
-<div align="center">
-
-### SAR Remote Sensing · Distributed SAR · HRWS-SAR · MIMO-SAR
-
-*Exploring advanced SAR technologies for high-precision Earth observation.*
-
-</div>
