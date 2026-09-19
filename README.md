@@ -21,10 +21,9 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * 🖊 B.S. of Engineering, Hunan University, Changsha, China, 2013-2017
 ---
 
-## 🛰️ Research Achievements
+## 🛰️ Research Achievements (first author)
 #### ALOS-4 Azimuth Ambiguity Suppression
 * **Azimuth Fractional Ambiguity Suppression for Spaceborne HRWS-SAR**, *IEEE Transactions on Geoscience and Remote Sensing*, under review.
-* **Azimuth Fractional Ambiguity Suppression in Spaceborne HRWS-SAR**, *IEEE International Geoscience and Remote Sensing Symposium*, 2026.
 * **A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2025.
 
 #### Space-/air-borne MIMO-SAR
@@ -46,6 +45,9 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * **An Innovative Link-Free Permanent-C (LFPC) Phase Synchronization Scheme for Distributed SAR**, *IEEE Transactions on Geoscience and Remote Sensing*, 2023.
 * **An Innovative Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2021.
 * **An Innovative Superpolyhedron (SP) Formation for Multistatic SAR (M-SAR) Interferometry**, *IEEE Transactions on Geoscience and Remote Sensing*, 2021.
+
+#### Lunar SAR system for water detection
+* **An Innovative Synthetic Aperture Radar Design Method for Lunar Water-ice Exploration**, *Remote Sensing*, 2023.
 
 #### Very-Long-Baseline MIMO-SAR
 * **An Innovative Link-Free Permanent-C (LFPC) Phase Synchronization Scheme for Distributed SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2023.
