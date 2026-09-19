@@ -213,53 +213,19 @@ A complete list of publications can be found on:
 
 ---
 
-# 📰 News
-
-### 2026
-
-* 📄 Published research on **MIMO-SAR azimuth resolution enhancement**.
-* 📡 Continued research on **very-long-baseline MIMO-SAR systems**.
-* 🛰️ Continued research on advanced **spaceborne SAR architectures and HRWS imaging**.
-
-### 2025
-
-* 📄 Published research on advanced **MIMO-SAR imaging** and **virtual delay-emission (VDE)** techniques.
-* 🔬 Continued research on high-resolution wide-swath SAR signal processing.
-
-### 2024
-
-* 🛰️ Continued research on **bistatic multichannel SAR** and alternating transmitting mode.
-* 📡 Continued research on spaceborne bistatic SAR synchronization and interferometric processing.
-
-### 2022
-
-* ✈️ Demonstrated **echo separation for orthogonal waveform-encoding MIMO-SAR** using airborne experiments.
-
-### 2021
-
-* 🌍 Published research on **multistatic SAR interferometry and satellite formation design**.
-
----
-
 # 🎓 Education
 
-### Ph.D. in [Your Major]
+### Ph.D. in Communication and Information Systems
 
-**Institute of Electronics, Chinese Academy of Sciences**
+**University of Chinese Academy of Sciences**
 
 Beijing, China
 
-Research topics:
+### B.S. in Electronic Information Engineering
 
-* Spaceborne SAR
-* Bistatic SAR
-* SAR interferometry
-* LT-1 mission
-* Digital elevation model generation
+**Hunan University**
 
-### B.S. in [Your Major]
-
-**[University Name]**
+Changsha, China
 
 [Year – Year]
 
@@ -271,24 +237,9 @@ Research topics:
 
 Tokyo, Japan
 
-Research on:
+### ETH Zurich
 
-* MIMO-SAR
-* High-resolution wide-swath SAR
-* SAR signal processing
-* Advanced spaceborne SAR architectures
-
-### Institute of Electronics, Chinese Academy of Sciences
-
-Beijing, China
-
-Research on:
-
-* LuTan-1 bistatic SAR
-* SAR synchronization
-* Bistatic interferometry
-* DEM generation
-* MIMO-SAR
+Zurich, Switzerland
 
 ---
 
@@ -297,42 +248,6 @@ Research on:
 * [Award / Fellowship], [Year]
 * [Academic Award], [Year]
 * [Scholarship], [Year]
-
----
-
-# 💻 Research & Software
-
-I develop research codes and simulation tools for:
-
-* SAR raw-data simulation
-* SAR imaging
-* Back-projection imaging
-* Range-Doppler processing
-* MIMO-SAR echo simulation
-* Bistatic SAR geometry
-* Interferometric processing
-* DEM generation
-* Digital beamforming
-* SAR ambiguity analysis
-* HRWS SAR system analysis
-
-Main programming environments:
-
-`MATLAB` · `Python` · `LaTeX`
-
----
-
-# 🌍 Applications
-
-My research aims to support high-precision Earth observation applications, including:
-
-* 🌲 Forest height estimation
-* 🗺️ Digital elevation model generation
-* 🌍 Topographic mapping
-* 🧊 Cryosphere monitoring
-* 🌊 Surface deformation monitoring
-* 🌱 Environmental monitoring
-* 🌎 Earth-system science
 
 ---
 
