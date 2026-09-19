@@ -83,7 +83,7 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 
 <div align="center">
 
-### Synthetic Aperture Radar · MIMO-SAR · Bistatic SAR · InSAR
+### Synthetic Aperture Radar · Distributed SAR · HRWS-/MIMO-SAR · InSAR
 
 *Exploring advanced SAR technologies for high-precision Earth observation.*
 
