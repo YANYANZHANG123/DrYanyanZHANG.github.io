@@ -45,79 +45,20 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * **Yanyan Zhang**, Heng Zhang, Naiming Ou, Kaiyu Liu, Da Liang, Yunkai Deng, Robert Wang, First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
 
 
-# 📚 Selected Publications
+# 📚 Oral Presebtation
+* The Joint PI Meeting of JAXA Earth Observation Missions FY2025, Tokyo, Japan, 2025.
 
-## 2026
-
-****Yanyan Zhang**, Akira Hirose, Wei Cao, Ryo Natsuaki, et al.**
-
-**Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method**
-
-*IEEE Transactions on Geoscience and Remote Sensing*, 2026.
-
-DOI: [10.1109/TGRS.2026.3695023](https://doi.org/10.1109/TGRS.2026.3695023)
-
----
-
-## 2024
-
-****Yanyan Zhang**, Pingping Lu, Robert Wang, et al.**
-
-**New Insights Into Alternating Transmitting Mode (ATM) for Bistatic Multichannel SAR**
-
-*IEEE Transactions on Geoscience and Remote Sensing*, 2024.
-
-The work investigates the alternating transmitting mode for bistatic multichannel SAR and its implications for system operation and imaging performance.
-
----
-
-## 2022
-
-****Yanyan Zhang**, Shuo Han, Tiantian Wei, Wei Wang, Yunkai Deng, Guodong Jin, Yongwei Zhang, Robert Wang**
-
-**First Demonstration of Echo Separation for Orthogonal Waveform Encoding MIMO-SAR Based on Airborne Experiments**
-
-*IEEE Transactions on Geoscience and Remote Sensing*, Vol. 60, 2022.
-
-DOI: [10.1109/TGRS.2022.3160204](https://doi.org/10.1109/TGRS.2022.3160204)
-
-This work experimentally demonstrates echo separation for orthogonal waveform-encoding MIMO-SAR using airborne SAR data.
-
----
-
-## 2021
-
-****Yanyan Zhang**, Hao Zhang, Shuai Hou, Yunkai Deng, Weidong Yu, Robert Wang**
-
-**An Innovative Superpolyhedron (SP) Formation for Multistatic SAR (M-SAR) Interferometry**
-
-*IEEE Transactions on Geoscience and Remote Sensing*, Vol. 59, No. 12, pp. 10136–10150, 2021.
-
-DOI: [10.1109/TGRS.2021.3051727](https://doi.org/10.1109/TGRS.2021.3051727)
-
-The paper investigates satellite formation design for multistatic SAR interferometry.
-
----
-
-## 2019
-
-
-
-This work investigates multipath effects on the phase synchronization performance of the LT-1 bistatic SAR mission.
-
----
-
-# 📖 Publications
-
-A complete list of publications can be found on:
-
-* [Google Scholar](#)
-* [ORCID](https://orcid.org/0000-0002-3497-4474)
-* [DBLP](https://dblp.org/)
-* [ResearchGate](#)
-
----
-
+* 2026 EUSAR
+* 2024 EUSAR
+* 2021 EUSAR
+* 2026 IEEE IGARSS
+* 2025 IEEE IGARSS
+* 2024 IEEE IGARSS
+* 2023 IEEE IGARSS
+* 2022 IEEE IGARSS
+* 2021 IEEE IGARSS
+* 2020 IEEE Radar Conference
+* 2019 APSAR
 
 ---
 
