@@ -5,7 +5,7 @@ He has been conducting research on Synthetic Aperture Radar (SAR) since 2016, wi
  
 He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laboratory, The University of Tokyo, Tokyo, Japan, where he is working on MIMO-SAR for HRWS imaging and azimuth ambiguity suppression for HRWS-SAR. 
 
-His research interests include:
+## 🔬 Research Interests
 * 🛰️ Distributed SAR (clock synchronization, satellite formation, DEM generation)
 * 🛰️ HRWS-SAR (azimuth multichannel, elevation digital beamforming, imaging mode)
 * 🌍 MIMO-SAR/Very-Long-Baseline MIMO-SAR (waveform encoding, echo seperation, signal model)
@@ -14,7 +14,6 @@ His research interests include:
 ---
 
 ## 🎓 Education/Experience
-
 * 🖊 The University of Tokyo, Tokyo, Japan, 2025-present (JSPS Fellow)
 * 🖊 ETH Zurich, Zurich, Switzerland, 2023-2025 (Postdoc)
 * 🖊 National Key Laboratory of Microwave Imaging, Beijing, China, 2022-2023 (Seinor Scientist)
@@ -22,56 +21,13 @@ His research interests include:
 * 🖊 B.S. of Engineering, Hunan University, Changsha, China, 2013-2017
 ---
 
-## 🔬 Research Interests
-
-### Spaceborne SAR
-
-Research on advanced spaceborne SAR systems for high-resolution and wide-swath Earth observation.
-
-### Bistatic and Distributed SAR
-
-Development of signal models, imaging methods, synchronization techniques, and interferometric processing for bistatic and distributed SAR systems.
-
-### MIMO-SAR
-
-Research on multiple-input multiple-output SAR architectures, waveform encoding, echo separation, and high-resolution wide-swath imaging.
-
-### SAR Interferometry
-
-Research on bistatic and multistatic interferometry, interferometric baseline estimation, phase synchronization, and high-precision DEM generation.
-
-### HRWS SAR
-
-Research on high-resolution wide-swath SAR system design, including multichannel architectures, digital beamforming, ambiguity suppression, and advanced imaging modes.
-
-### Very-Long-Baseline MIMO-SAR
-
-Research on future multi-satellite SAR systems with very long inter-satellite baselines, focusing on bistatic geometry, beam positioning, system performance, NESZ, RASR, and AASR.
-
----
-
-# 🛰️ Research Projects
-
-## LuTan-1 Spaceborne Bistatic SAR
-
-Research related to the **LuTan-1 (LT-1) spaceborne bistatic SAR mission**.
-
-Main topics include:
-
-* Inter-satellite synchronization
-* Synchronization error analysis
-* Multipath effects on phase synchronization
+## 🛰️ Research Projects
+#### LuTan-1 Spaceborne Bistatic SAR
+* **First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1**, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
 * High-precision interferometric baseline estimation
 * Synchronization RFI suppression
-* Bistatic SAR interferometry
-* Cross-track interferometry
-* High-precision DEM generation
-
-Representative work includes the investigation of multipath effects on phase synchronization for LT-1 and advanced bistatic SAR processing techniques.
-
 ---
-
-## MIMO-SAR
+#### MIMO-SAR
 
 Research on advanced MIMO-SAR architectures for future high-resolution and wide-swath SAR systems.
 
@@ -183,11 +139,7 @@ The paper investigates satellite formation design for multistatic SAR interferom
 
 ## 2019
 
-**Yanyan Zhang, Heng Zhang, Naiming Ou, Kaiyu Liu, Da Liang, Yunkai Deng, Robert Wang**
 
-**First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1**
-
-*IEEE Transactions on Geoscience and Remote Sensing*, 2019.
 
 This work investigates multipath effects on the phase synchronization performance of the LT-1 bistatic SAR mission.
 
