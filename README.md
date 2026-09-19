@@ -11,7 +11,6 @@ His research interests include:
 * 🌍 MIMO-SAR/Very-Long-Baseline MIMO-SAR (waveform encoding, echo seperation, signal model)
 * ⚡ SAR signal model and imaging processing
 * 🌱 SAR applications for Earth observation
-
 ---
 
 ## 🎓 Education
