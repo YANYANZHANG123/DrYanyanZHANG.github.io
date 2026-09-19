@@ -68,7 +68,7 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * Best doctoral dissertation of Beijing, 2023
 * Best doctoral dissertation of the Chinese Academy of Sciences, 2023
 * President Prize of the Chinese Academy of Sciences, 2022
-* Sino-DAAD Postdoctoral fellowship, 2022
+* Sino-DAAD Postdoctoral Fellowships, 2022
 * A finalist for the Best Student Paper Award at the IEEE IGARSS, 2021
 * National scholarship for doctoral students, 2021
 * Best bachelor dissertation of Hunan University, 2017
