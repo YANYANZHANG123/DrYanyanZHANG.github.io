@@ -2,14 +2,14 @@
 
 ### Researcher in Synthetic Aperture Radar (SAR) and Remote Sensing
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=googlescholar)](#)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3497--4474-a6ce39?logo=orcid)](https://orcid.org/0000-0002-3497-4474)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](#)
+## 👋 Biography
+He received the B.S. degree in electronic and information engineering from Hunan University, Changsha, China, in 2017, and the Ph.D. degree in communication and information systems from the University of Chinese Academy of Sciences, Beijing, China, in 2022.
 
----
+From 2023 to 2025, he was a Post-Doctoral Researcher with the Chair of Earth Observation and Remote Sensing, ETH Zürich, Zürich, Switzerland. 
 
-## 👋 About Me
+He is currently a JSPS Post-Doctoral Fellow with the Department of Electrical Engineering and Information Systems, The University of Tokyo, Tokyo, Japan, where he is working on MIMO-SAR for high-resolution and wide-swath (HRWS) imaging and azimuth ambiguity suppression for HRWS-SAR. 
+
+His research interests include the system design and signal processing of **bistatic/multistatic SAR** and **HRWS-SAR**.
 
 I am **Yanyan Zhang**, a researcher working in the field of **Synthetic Aperture Radar (SAR)** and **spaceborne remote sensing**.
 
@@ -30,6 +30,37 @@ My research interests include:
 * 🌱 SAR Applications for Earth Observation and Environmental Monitoring
 
 ---
+
+
+
+# 🎓 Education
+
+### Ph.D. in Communication and Information Systems
+
+**University of Chinese Academy of Sciences**
+
+Beijing, China
+
+### B.S. in Electronic Information Engineering
+
+**Hunan University**
+
+Changsha, China
+
+[Year – Year]
+
+---
+
+# 💼 Academic Experience
+
+### The University of Tokyo
+
+Tokyo, Japan
+
+### ETH Zurich
+
+Zurich, Switzerland
+
 
 ## 🔬 Research Interests
 
@@ -213,33 +244,6 @@ A complete list of publications can be found on:
 
 ---
 
-# 🎓 Education
-
-### Ph.D. in Communication and Information Systems
-
-**University of Chinese Academy of Sciences**
-
-Beijing, China
-
-### B.S. in Electronic Information Engineering
-
-**Hunan University**
-
-Changsha, China
-
-[Year – Year]
-
----
-
-# 💼 Academic Experience
-
-### The University of Tokyo
-
-Tokyo, Japan
-
-### ETH Zurich
-
-Zurich, Switzerland
 
 ---
 
@@ -248,6 +252,14 @@ Zurich, Switzerland
 * [Award / Fellowship], [Year]
 * [Academic Award], [Year]
 * [Scholarship], [Year]
+
+---
+
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=googlescholar)](#)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3497--4474-a6ce39?logo=orcid)](https://orcid.org/0000-0002-3497-4474)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](#)
 
 ---
 
