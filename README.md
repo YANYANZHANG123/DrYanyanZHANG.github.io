@@ -13,7 +13,7 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * 🌱 SAR applications for Earth observation
 
 ## 🎓 Education/Experience
-* 🖊 The University of Tokyo, Tokyo, Japan, 2025-present (JSPS Fellow)
+* 🖊 The University of Tokyo, Tokyo, Japan, 2025-present (JSPS Post-Doctoral Fellow)
 * 🖊 ETH Zurich, Zurich, Switzerland, 2023-2025 (Postdoc)
 * 🖊 National Key Laboratory of Microwave Imaging, Beijing, China, 2022-2023 (Seinor Scientist)
 * 🖊 Ph.D. of Engineering, University of Chinese Academy of Sciences, Beijing, China, 2017-2022
@@ -46,7 +46,7 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 
 
 # 📚 Conference
-* The Joint PI Meeting of JAXA Earth Observation Missions FY2025, Tokyo, Japan, 2025.
+* The Joint PI Meeting of JAXA Earth Observation Missions FY2025, Tokyo, Japan, 2025
 * AG-GARSS 2026
 * EUSAR 2026
 * EUSAR 2024
