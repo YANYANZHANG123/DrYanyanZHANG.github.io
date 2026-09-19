@@ -11,7 +11,6 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * 🌍 MIMO-SAR (orthogonal waveform encoding, echo seperation)
 * ⚡ SAR signal model and imaging processing
 * 🌱 SAR applications for Earth observation
----
 
 ## 🎓 Education/Experience
 * 🖊 The University of Tokyo, Tokyo, Japan, 2025-present (JSPS Fellow)
@@ -19,7 +18,6 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * 🖊 National Key Laboratory of Microwave Imaging, Beijing, China, 2022-2023 (Seinor Scientist)
 * 🖊 Ph.D. of Engineering, University of Chinese Academy of Sciences, Beijing, China, 2017-2022
 * 🖊 B.S. of Engineering, Hunan University, Changsha, China, 2013-2017
----
 
 ## 📚 Publications
 ####  2026
@@ -46,7 +44,6 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 ####  2019
 * **Yanyan Zhang**, Heng Zhang, Naiming Ou, Kaiyu Liu, Da Liang, Yunkai Deng, Robert Wang, First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
 
----
 
 # 📚 Selected Publications
 
