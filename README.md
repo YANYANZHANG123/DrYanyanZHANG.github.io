@@ -47,18 +47,17 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 
 # 📚 Oral Presebtation
 * The Joint PI Meeting of JAXA Earth Observation Missions FY2025, Tokyo, Japan, 2025.
-
-* 2026 EUSAR
-* 2024 EUSAR
-* 2021 EUSAR
-* 2026 IEEE IGARSS
-* 2025 IEEE IGARSS
-* 2024 IEEE IGARSS
-* 2023 IEEE IGARSS
-* 2022 IEEE IGARSS
-* 2021 IEEE IGARSS
-* 2020 IEEE Radar Conference
-* 2019 APSAR
+* EUSAR 2026
+* EUSAR 2024
+* EUSAR 2021
+* IEEE IGARSS 2026
+* IEEE IGARSS 2025
+* IEEE IGARSS 2024
+* IEEE IGARSS 2023
+* IEEE IGARSS 2022
+* IEEE IGARSS 2021
+* IEEE Radar Conference 2020
+* APSAR 2019
 
 ---
 
