@@ -29,7 +29,7 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * **Demonstration of Phase-Preserving Synchronization RFI Suppression for L-Band Spaceborne Bistatic Interferometric SAR**, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024.
 * **An Advanced Interferometric Baseline Estimation Method (IBEM) for Spaceborne Bistatic SAR**, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024.
 * **An Innovative Link-Free Permanent-C (LFPC) Phase Synchronization Scheme for Distributed SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2023.
-* * **An Innovative Synthetic Aperture Radar Design Method for Lunar Water-ice Exploration**, *Remote Sensing*, 2022.
+* **An Innovative Synthetic Aperture Radar Design Method for Lunar Water-ice Exploration**, *Remote Sensing*, 2022.
 * **First Demonstration of Echo Separation for Orthogonal Waveform Encoding MIMO-SAR Based on Airborne Experiments**, *IEEE Transactions on Geoscience and Remote Sensing*, 2022.
 * **The Real-Time Framework of the Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2022.
 * **A Novel Weighted Amplitude Modulation (WAM) System for Ambiguity Suppression of Spaceborne Hybrid Quad-Pol SAR**, *Remote Sensing*, 2022.
