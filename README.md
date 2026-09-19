@@ -47,7 +47,7 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 
 ## 📚 Conference
 * The Joint PI Meeting of JAXA Earth Observation Missions FY2025
-* AP-GARSS 2026
+* IEEE AP-GARSS 2026
 * EUSAR 2026
 * EUSAR 2024
 * EUSAR 2021
