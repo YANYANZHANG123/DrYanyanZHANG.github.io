@@ -35,15 +35,9 @@ My research interests include:
 
 ---
 
-# 💼 Academic Experience
-
-### The University of Tokyo
-
-Tokyo, Japan
-
-### ETH Zurich
-
-Zurich, Switzerland
+## 💼 Academic Experience
+#### The University of Tokyo, Tokyo, Japan, 2025-present
+#### ETH Zurich, Zurich, Switzerland, 2023-2025
 
 
 ## 🔬 Research Interests
