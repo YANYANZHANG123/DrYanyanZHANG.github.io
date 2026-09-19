@@ -22,15 +22,19 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 ---
 
 ## 🛰️ Research Projects
-#### LuTan-1 Spaceborne Bistatic SAR
-* **Demonstration of Phase-Preserving Synchronization RFI Suppression for L-Band Spaceborne Bistatic Interferometric SAR**, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024.
-* **An Advanced Interferometric Baseline Estimation Method (IBEM) for Spaceborne Bistatic SAR**, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024.
-* **First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1**, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
+#### ALOS-4 Azimuth Ambiguity Suppression
+* **Azimuth Fractional Ambiguity Suppression for Spaceborne HRWS-SAR**, *IEEE Transactions on Geoscience and Remote Sensing*, (under review).
+* **A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2025.
 
 #### Space-/air-borne MIMO-SAR
 * **Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method**, *IEEE Transactions on Geoscience and Remote Sensing*, 2026.
 * **Virtual Delay-Emission (VDE): An HRWS Imaging Mode for Spaceborne MIMO-SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2025.
 * **First Demonstration of Echo Separation for Orthogonal Waveform Encoding MIMO-SAR Based on Airborne Experiments**, *IEEE Transactions on Geoscience and Remote Sensing*, 2022.
+
+#### LuTan-1 Spaceborne Bistatic SAR
+* **Demonstration of Phase-Preserving Synchronization RFI Suppression for L-Band Spaceborne Bistatic Interferometric SAR**, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024.
+* **An Advanced Interferometric Baseline Estimation Method (IBEM) for Spaceborne Bistatic SAR**, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024.
+* **First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1**, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
 
 #### High-Resolution Wide-Swath SAR
 * **New Insights Into Alternating Transmitting Mode (ATM) for Bistatic Multichannel SAR**, *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
@@ -42,9 +46,7 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * **An Innovative Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2021.
 * **An Innovative Superpolyhedron (SP) Formation for Multistatic SAR (M-SAR) Interferometry**, *IEEE Transactions on Geoscience and Remote Sensing*, 2021.
 
-#### ALOS-4 Ambiguity Suppression
-* **Azimuth Fractional Ambiguity Suppression for Spaceborne HRWS-SAR**, *IEEE Transactions on Geoscience and Remote Sensing*, (under review).
-* **A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SARR**, *IEEE Geoscience and Remote Sensing Letters*, 2025.
+
 
 #### Very-Long-Baseline MIMO-SAR
 
