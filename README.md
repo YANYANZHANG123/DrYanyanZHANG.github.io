@@ -22,8 +22,8 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 ---
 
 ## 🛰️ Publications
-<font color="red">Yanyan Zhang</font>
-* <font color="red">Yanyan Zhang, Akira Hirose, Wei Cao, Ryo Natsuaki, Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method, IEEE Transactions on Geoscience and Remote Sensing, 2026.</font>
+
+* **Yanyan Zhang**, Akira Hirose, Wei Cao, Ryo Natsuaki, Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method, IEEE Transactions on Geoscience and Remote Sensing, 2026.
 * **Yanyan Zhang**, Akira Hirose, Ryo Natsuaki, Virtual Delay-Emission (VDE): An HRWS Imaging Mode for Spaceborne MIMO-SAR, *IEEE Geoscience and Remote Sensing Letters*, 2025.
 * **Yanyan Zhang**, Akira Hirose, Ryo Natsuaki, A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SAR, *IEEE Geoscience and Remote Sensing Letters*, 2025.
 * **Yanyan Zhang**, Pingping Lu, Robert Wang, New Insights Into Alternating Transmitting Mode (ATM) for Bistatic Multichannel SAR, *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
