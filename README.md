@@ -1,4 +1,3 @@
-# Yanyan Zhang
 <img src="zhang.png" width="212" height="265" alt="Yanyan Zhang">
 
 ## 👋 Biography
@@ -30,23 +29,11 @@ My research interests include:
 
 ---
 
-
-
-# 🎓 Education
-
+## 🎓 Education
 ### Ph.D. in Communication and Information Systems
-
-**University of Chinese Academy of Sciences**
-
-Beijing, China
-
+**University of Chinese Academy of Sciences** Beijing, China
 ### B.S. in Electronic Information Engineering
-
-**Hunan University**
-
-Changsha, China
-
-[Year – Year]
+**Hunan University** Changsha, China
 
 ---
 
