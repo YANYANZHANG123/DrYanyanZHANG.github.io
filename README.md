@@ -44,7 +44,7 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 ####  2020
 * **Yanyan Zhang**, Robert Wang, Wei Wang, Yunkai Deng, An Innovative Multiswath Jump Imaging Mode for Spaceborne SAR, *IEEE Geoscience and Remote Sensing Letters*, 2020.
 ####  2019
-* **Yanyan Zhang**, Heng Zhang, Naiming Ou, Kaiyu Liu, Da Liang, Yunkai Deng, Robert Wang, First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1, IEEE Transactions on Geoscience and Remote Sensing, 2019.
+* **Yanyan Zhang**, Heng Zhang, Naiming Ou, Kaiyu Liu, Da Liang, Yunkai Deng, Robert Wang, First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
 
 ---
 
