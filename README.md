@@ -69,7 +69,7 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * [Scholarship], [Year]
 
 ## 🔗 Academic Links
-* 🎓 **Google Scholar:** [**Yanyan Zhang**](https://scholar.google.com/citations?user=sD4C7tkAAAAJ&hl=en)
+* 🎓 **Google Scholar:** [Yanyan Zhang](https://scholar.google.com/citations?user=sD4C7tkAAAAJ&hl=en)
 * 🆔 **ORCID:** [0000-0002-3497-4474](https://orcid.org/0000-0002-3497-4474)
 
 ## 📫 Contact
