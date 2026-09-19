@@ -86,8 +86,9 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 * 📧 **Email:** [yanyanzhang@eis.t.u-tokyo.ac.jp](#) / [caszyymail@163.com](#)
 
 <div align="center">
-<b>SAR Remote Sensing · Distributed SAR · HRWS-SAR · MIMO-SAR<b>
+SAR Remote Sensing · Distributed SAR · HRWS-SAR · MIMO-SAR
 </div>
+
 <div align="center">
 <i>Exploring advanced SAR technologies for high-precision Earth observation.</i>
 </div>
