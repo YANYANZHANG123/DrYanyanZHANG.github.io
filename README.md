@@ -51,7 +51,7 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 * EUSAR 2026
 * EUSAR 2024
 * EUSAR 2021
-* IEEE IGARSS 2026
+IEEE IGARSS 2026
 * IEEE IGARSS 2025
 * IEEE IGARSS 2024
 * IEEE IGARSS 2023
