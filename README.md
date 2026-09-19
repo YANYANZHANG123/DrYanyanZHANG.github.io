@@ -1,4 +1,4 @@
-<img src="zhang.png" width="212" height="265" alt="**Yanyan Zhang**">
+<img src="zhang.png" width="212" height="265" alt="\mathbf{Yanyan Zhang}">
 
 ## 👋 Biography
 He has been conducting research on Synthetic Aperture Radar (SAR) since 2016, with a particular focus on system design and signal processing for bistatic and multistatic SAR, as well as high-resolution and wide-swath (HRWS) SAR.
@@ -22,21 +22,21 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 ---
 
 ## 🛰️ Publications
-* **Yanyan Zhang**, Akira Hirose, Wei Cao, Ryo Natsuaki, Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method, *IEEE Transactions on Geoscience and Remote Sensing*, 2026.
-* **Yanyan Zhang**, Akira Hirose, Ryo Natsuaki, Virtual Delay-Emission (VDE): An HRWS Imaging Mode for Spaceborne MIMO-SAR, *IEEE Geoscience and Remote Sensing Letters*, 2025.
-* **Yanyan Zhang**, Akira Hirose, Ryo Natsuaki, A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SAR, *IEEE Geoscience and Remote Sensing Letters*, 2025.
-* **Yanyan Zhang**, Pingping Lu, Robert Wang, New Insights Into Alternating Transmitting Mode (ATM) for Bistatic Multichannel SAR, *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
-* **Yanyan Zhang**, Junfeng Li, Pingping Lu, Tianyuan Yang, Robert Wang, Demonstration of Phase-Preserving Synchronization RFI Suppression for L-Band Spaceborne Bistatic Interferometric SAR, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024.
-* **Yanyan Zhang**, Junfeng Li, Pingping Lu, Robert Wang, An Advanced Interferometric Baseline Estimation Method (IBEM) for Spaceborne Bistatic SAR, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024.
-* **Yanyan Zhang**, Pingping Lu, Robert Wang, An Innovative Link-Free Permanent-C (LFPC) Phase Synchronization Scheme for Distributed SAR, *IEEE Geoscience and Remote Sensing Letters*, 2023.
-* **Yanyan Zhang**, Fei Zhao, Sheng Chang, Mingliang Liu, Robert Wang, An Innovative Synthetic Aperture Radar Design Method for Lunar Water-ice Exploration, *Remote Sensing*, 2022.
-* **Yanyan Zhang**, Shuo Han, Tiantian Wei, Wei Wang, Yunkai Deng, Guodong Jin, Yongwei Zhang, Robert Wang, First Demonstration of Echo Separation for Orthogonal Waveform Encoding MIMO-SAR Based on Airborne Experiments, *IEEE Transactions on Geoscience and Remote Sensing*, 2022.
-* **Yanyan Zhang**, Ruwei Zhang, Robert Wang, Heng Zhang, The Real-Time Framework of the Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR, *IEEE Geoscience and Remote Sensing Letters*, 2022.
-* **Yanyan Zhang**, Sheng Chang, Robert Wang, Peng Li, Yongwei Zhang, Yunkai Deng, A Novel Weighted Amplitude Modulation (WAM) System for Ambiguity Suppression of Spaceborne Hybrid Quad-Pol SAR, *Remote Sensing*, 2022.
-* **Yanyan Zhang**, Sheng Chang, Robert Wang, Yunkai Deng, An Innovative Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR, *IEEE Transactions on Geoscience and Remote Sensing*, 2021.
-* **Yanyan Zhang**, Hao Zhang, Shuai Hou, Yunkai Deng, Weidong Yu, Robert Wang, An Innovative Superpolyhedron (SP) Formation for Multistatic SAR (M-SAR) Interferometry, *IEEE Transactions on Geoscience and Remote Sensing*, 2021.
-* **Yanyan Zhang**, Robert Wang, Wei Wang, Yunkai Deng, An Innovative Multiswath Jump Imaging Mode for Spaceborne SAR, *IEEE Geoscience and Remote Sensing Letters*, 2020.
-* $\color{red}{\mathbf{Yanyan Zhang}, Heng Zhang, Naiming Ou, Kaiyu Liu, Da Liang, Yunkai Deng, Robert Wang, First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1, IEEE Transactions on Geoscience and Remote Sensing, 2019.}$
+* \mathbf{Yanyan Zhang}, Akira Hirose, Wei Cao, Ryo Natsuaki, Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method, *IEEE Transactions on Geoscience and Remote Sensing*, 2026.
+* \mathbf{Yanyan Zhang}, Akira Hirose, Ryo Natsuaki, Virtual Delay-Emission (VDE): An HRWS Imaging Mode for Spaceborne MIMO-SAR, *IEEE Geoscience and Remote Sensing Letters*, 2025.
+* \mathbf{Yanyan Zhang}, Akira Hirose, Ryo Natsuaki, A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SAR, *IEEE Geoscience and Remote Sensing Letters*, 2025.
+* \mathbf{Yanyan Zhang}, Pingping Lu, Robert Wang, New Insights Into Alternating Transmitting Mode (ATM) for Bistatic Multichannel SAR, *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
+* \mathbf{Yanyan Zhang}, Junfeng Li, Pingping Lu, Tianyuan Yang, Robert Wang, Demonstration of Phase-Preserving Synchronization RFI Suppression for L-Band Spaceborne Bistatic Interferometric SAR, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024.
+* \mathbf{Yanyan Zhang}, Junfeng Li, Pingping Lu, Robert Wang, An Advanced Interferometric Baseline Estimation Method (IBEM) for Spaceborne Bistatic SAR, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024.
+* \mathbf{Yanyan Zhang}, Pingping Lu, Robert Wang, An Innovative Link-Free Permanent-C (LFPC) Phase Synchronization Scheme for Distributed SAR, *IEEE Geoscience and Remote Sensing Letters*, 2023.
+* \mathbf{Yanyan Zhang}, Fei Zhao, Sheng Chang, Mingliang Liu, Robert Wang, An Innovative Synthetic Aperture Radar Design Method for Lunar Water-ice Exploration, *Remote Sensing*, 2022.
+* \mathbf{Yanyan Zhang}, Shuo Han, Tiantian Wei, Wei Wang, Yunkai Deng, Guodong Jin, Yongwei Zhang, Robert Wang, First Demonstration of Echo Separation for Orthogonal Waveform Encoding MIMO-SAR Based on Airborne Experiments, *IEEE Transactions on Geoscience and Remote Sensing*, 2022.
+* \mathbf{Yanyan Zhang}, Ruwei Zhang, Robert Wang, Heng Zhang, The Real-Time Framework of the Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR, *IEEE Geoscience and Remote Sensing Letters*, 2022.
+* \mathbf{Yanyan Zhang}, Sheng Chang, Robert Wang, Peng Li, Yongwei Zhang, Yunkai Deng, A Novel Weighted Amplitude Modulation (WAM) System for Ambiguity Suppression of Spaceborne Hybrid Quad-Pol SAR, *Remote Sensing*, 2022.
+* \mathbf{Yanyan Zhang}, Sheng Chang, Robert Wang, Yunkai Deng, An Innovative Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR, *IEEE Transactions on Geoscience and Remote Sensing*, 2021.
+* \mathbf{Yanyan Zhang}, Hao Zhang, Shuai Hou, Yunkai Deng, Weidong Yu, Robert Wang, An Innovative Superpolyhedron (SP) Formation for Multistatic SAR (M-SAR) Interferometry, *IEEE Transactions on Geoscience and Remote Sensing*, 2021.
+* \mathbf{Yanyan Zhang}, Robert Wang, Wei Wang, Yunkai Deng, An Innovative Multiswath Jump Imaging Mode for Spaceborne SAR, *IEEE Geoscience and Remote Sensing Letters*, 2020.
+* \mathbf{Yanyan Zhang}, Heng Zhang, Naiming Ou, Kaiyu Liu, Da Liang, Yunkai Deng, Robert Wang, First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1, IEEE Transactions on Geoscience and Remote Sensing, 2019.
 
 ---
 
@@ -44,7 +44,7 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 
 ## 2026
 
-****Yanyan Zhang**, Akira Hirose, Wei Cao, Ryo Natsuaki, et al.**
+**\mathbf{Yanyan Zhang}, Akira Hirose, Wei Cao, Ryo Natsuaki, et al.**
 
 **Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method**
 
@@ -56,7 +56,7 @@ DOI: [10.1109/TGRS.2026.3695023](https://doi.org/10.1109/TGRS.2026.3695023)
 
 ## 2024
 
-****Yanyan Zhang**, Pingping Lu, Robert Wang, et al.**
+**\mathbf{Yanyan Zhang}, Pingping Lu, Robert Wang, et al.**
 
 **New Insights Into Alternating Transmitting Mode (ATM) for Bistatic Multichannel SAR**
 
@@ -68,7 +68,7 @@ The work investigates the alternating transmitting mode for bistatic multichanne
 
 ## 2022
 
-****Yanyan Zhang**, Shuo Han, Tiantian Wei, Wei Wang, Yunkai Deng, Guodong Jin, Yongwei Zhang, Robert Wang**
+**\mathbf{Yanyan Zhang}, Shuo Han, Tiantian Wei, Wei Wang, Yunkai Deng, Guodong Jin, Yongwei Zhang, Robert Wang**
 
 **First Demonstration of Echo Separation for Orthogonal Waveform Encoding MIMO-SAR Based on Airborne Experiments**
 
@@ -82,7 +82,7 @@ This work experimentally demonstrates echo separation for orthogonal waveform-en
 
 ## 2021
 
-****Yanyan Zhang**, Hao Zhang, Shuai Hou, Yunkai Deng, Weidong Yu, Robert Wang**
+**\mathbf{Yanyan Zhang}, Hao Zhang, Shuai Hou, Yunkai Deng, Weidong Yu, Robert Wang**
 
 **An Innovative Superpolyhedron (SP) Formation for Multistatic SAR (M-SAR) Interferometry**
 
@@ -134,18 +134,18 @@ A complete list of publications can be found on:
 
 # 🔗 Academic Links
 
-* 🎓 **Google Scholar:** [**Yanyan Zhang**](#)
+* 🎓 **Google Scholar:** [\mathbf{Yanyan Zhang}](#)
 * 🆔 **ORCID:** [0000-0002-3497-4474](https://orcid.org/0000-0002-3497-4474)
-* 💻 **GitHub:** [**Yanyan Zhang**](#)
+* 💻 **GitHub:** [\mathbf{Yanyan Zhang}](#)
 * 🌐 **Academic Homepage:** [yanyanzhang.github.io](#)
-* 📚 **DBLP:** [**Yanyan Zhang**](https://dblp.org/)
-* 📄 **ResearchGate:** [**Yanyan Zhang**](#)
+* 📚 **DBLP:** [\mathbf{Yanyan Zhang}](https://dblp.org/)
+* 📄 **ResearchGate:** [\mathbf{Yanyan Zhang}](#)
 
 ---
 
 # 📫 Contact
 
-****Yanyan Zhang****
+**\mathbf{Yanyan Zhang}**
 
 Tokyo, Japan
 
