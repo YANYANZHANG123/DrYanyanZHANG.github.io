@@ -1,9 +1,9 @@
 <img src="zhang.png" width="212" height="265" alt="Yanyan Zhang">
 
 ## 👋 Biography
-He has been conducting research on SAR since 2016, with a particular focus on system design and signal processing for bistatic and multistatic SAR, as well as high-resolution and wide-swath SAR.
+He has been conducting research on SAR since 2016, with a particular focus on system design and signal processing for bistatic and multistatic SAR, as well as high-resolution and wide-swath (HRWS) SAR.
  
-He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laboratory, The University of Tokyo, Tokyo, Japan, where he is working on MIMO-SAR for high-resolution and wide-swath (HRWS) imaging and azimuth ambiguity suppression for HRWS-SAR. 
+He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laboratory, The University of Tokyo, Tokyo, Japan, where he is working on MIMO-SAR for HRWS imaging and azimuth ambiguity suppression for HRWS-SAR. 
 
 His research interests include:
 * 🛰️ Spaceborne Synthetic Aperture Radar (SAR)
