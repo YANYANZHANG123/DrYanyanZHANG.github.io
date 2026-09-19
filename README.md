@@ -64,9 +64,9 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 
 ## 🏆 Awards & Honors
 
-* [Award / Fellowship], [Year]
-* [Academic Award], [Year]
-* [Scholarship], [Year]
+* [Best doctoral dissertation of Beijing], [2023]
+* [Best doctoral dissertation of the Chinese Academy of Sciences], [2023]
+* [President Prize of the Chinese Academy of Sciences], [2022]
 
 ## 🔗 Academic Links
 * 🎓 **Google Scholar:** [Yanyan Zhang](https://scholar.google.com/citations?user=sD4C7tkAAAAJ&hl=en)
