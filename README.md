@@ -45,8 +45,8 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * **Yanyan Zhang**, Heng Zhang, Naiming Ou, Kaiyu Liu, Da Liang, Yunkai Deng, Robert Wang, First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
 
 
-# 📚 Conference
-* The Joint PI Meeting of JAXA Earth Observation Missions FY2025, Tokyo, Japan, 2025
+## 📚 Conference
+* The Joint PI Meeting of JAXA Earth Observation Missions FY2025
 * AP-GARSS 2026
 * EUSAR 2026
 * EUSAR 2024
