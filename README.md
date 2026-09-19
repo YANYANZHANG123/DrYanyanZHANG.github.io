@@ -19,7 +19,7 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * 🖊 Ph.D. of Engineering, University of Chinese Academy of Sciences, Beijing, China, 2017-2022
 * 🖊 B.S. of Engineering, Hunan University, Changsha, China, 2013-2017
 
-## 📚 Publications
+## 📚 Journal
 ####  2026
 * **Yanyan Zhang**, Akira Hirose, Wei Cao, Ryo Natsuaki, Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method, *IEEE Transactions on Geoscience and Remote Sensing*, 2026.
 ####  2025
@@ -45,7 +45,7 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * **Yanyan Zhang**, Heng Zhang, Naiming Ou, Kaiyu Liu, Da Liang, Yunkai Deng, Robert Wang, First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
 
 
-# 📚 Conferences
+# 📚 Conference
 * The Joint PI Meeting of JAXA Earth Observation Missions FY2025, Tokyo, Japan, 2025.
 * AG-GARSS 2026
 * EUSAR 2026
