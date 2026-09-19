@@ -1,83 +1,366 @@
-# academic-homepage
+# Yanyan Zhang
 
-![Preview](assets/images/etc/preview.png)
+### Researcher in Synthetic Aperture Radar (SAR) and Remote Sensing
 
-[![pages-build-deployment](https://github.com/luost26/academic-homepage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/luost26/academic-homepage/actions/workflows/pages/pages-build-deployment)
-[![Hits](https://hits.sh/github.com/luost26/academic-homepage.svg?view=today-total)](https://hits.sh/github.com/luost26/academic-homepage/)
-[![GitHub stars](https://img.shields.io/github/stars/luost26/academic-homepage)](https://github.com/luost26/academic-homepage)
-[![GitHub forks](https://img.shields.io/github/forks/luost26/academic-homepage)](https://github.com/luost26/academic-homepage/forks)
-<!--[![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fluost26.github.io%2Facademic-homepage)](https://validator.nu/?doc=https%3A%2F%2Fluost26.github.io%2Facademic-homepage)-->
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=googlescholar)](#)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3497--4474-a6ce39?logo=orcid)](https://orcid.org/0000-0002-3497-4474)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](#)
 
-A GitHub Pages (Jekyll) template for personal academic website. Click [here](https://luost.me/academic-homepage/) to see the demo.
+---
 
-## User Community
+## 👋 About Me
 
-[🏡](https://luost.me/)
-[:star:](https://cch1999.github.io/)
-[:star:](https://kyrrego.github.io/)
-[:star:](https://ced3-han.github.io/)
-[:star:](https://lihengchen.com/)
-[:star:](https://hpwang-whu.github.io/)
-[:star:](https://zhang-yingyi.github.io/)
-[:star:](https://wby24.github.io/)
-[:star:](https://pengfeixu.com/)
-[:star:](https://boqiuphd.github.io/)
-[:star:](https://www.huabing.li/)
-[:star:](https://xiecuiying.github.io/)
-[:star:](https://hannyang.github.io/)
-[:star:](https://king-play.github.io/)
-[🤖](https://andrewcwlee.github.io)
-[:star:](https://laiyao1.github.io)
-[🌜](https://tmsultan.github.io)
-[🚀](https://zaxguo.github.io)
-[:gemini:](https://hongyang-du.github.io)
-[🇻‍🇳](https://thuanz123.github.io)
-[🧬](https://gdalba.github.io/)
-[🇭🇰](https://yhhan.com/)
-[🌔](https://chen-huaneng.github.io/academic)
+I am **Yanyan Zhang**, a researcher working in the field of **Synthetic Aperture Radar (SAR)** and **spaceborne remote sensing**.
 
-:hugs: Feel free to tell us if you are using this template for your website by creating an issue [here](https://github.com/luost26/academic-homepage/issues/new?assignees=&labels=&projects=&template=user-report.md&title=I+am+using+this+template%21).
+My research focuses on advanced SAR systems and signal processing techniques for **high-resolution, wide-swath, and multi-dimensional Earth observation**. My work covers spaceborne bistatic SAR, multistatic and distributed SAR, MIMO-SAR, interferometric SAR, and high-resolution wide-swath SAR imaging.
 
-### Acknowledgements
+I am particularly interested in developing new SAR system architectures, signal models, and imaging algorithms that enable future spaceborne radar systems to achieve improved resolution, wider coverage, and higher-precision Earth observation.
 
-The improvements of this template have been inspired by the customizations and feedbacks from the following users:
-- :star: [onethousandwu.com](https://onethousandwu.com/): increased corner radius [[Repo]](https://github.com/oneThousand1000/oneThousand1000.github.io)
-- :star: [shiwonkim.github.io](https://shiwonkim.github.io/): two-column main page layout [[Repo]](https://github.com/shiwonkim/shiwonkim.github.io)
+My research interests include:
 
+* 🛰️ Spaceborne Synthetic Aperture Radar
+* 📡 Bistatic / Multistatic / Distributed SAR
+* 🔭 MIMO-SAR
+* 🌍 SAR Interferometry and DEM Generation
+* 📐 High-Resolution Wide-Swath (HRWS) SAR
+* ⚡ SAR Signal Processing and Imaging
+* 📡 SAR Synchronization and Interferometric Baseline Estimation
+* 🛰️ Very-Long-Baseline MIMO-SAR
+* 🌱 SAR Applications for Earth Observation and Environmental Monitoring
 
-## Need Help?
+---
 
-If you run into **any** issues while using this template, or have suggestions for improvements, please don't hesitate to create an issue [here](https://github.com/luost26/academic-homepage/issues/new).
+## 🔬 Research Interests
 
-### FAQs
-- [Need blogging feature?](https://github.com/luost26/academic-homepage/issues/13#issuecomment-2646371324)
-- [How to show citation count for papers?](https://github.com/luost26/academic-homepage/issues/29#issuecomment-3222496187)
+### Spaceborne SAR
 
+Research on advanced spaceborne SAR systems for high-resolution and wide-swath Earth observation.
 
-## Getting Started
+### Bistatic and Distributed SAR
 
-1. First, fork this repository or click the "Use this template" button to create a new repository. The name of the repository should be `<your-github-username>.github.io` (click [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites) to learn more about naming a GitHub Pages repository).
-   - If you plan to customize the functionality or style of the template, and do not want to get updates from this repository, choose "Use this template".
-   - If you plan to only edit the content (biography, publications, news, etc.), and would like to get updates from this repository, choose "Fork".
-   - If you want to contribute to this project, fork the repository and submit a pull request.
+Development of signal models, imaging methods, synchronization techniques, and interferometric processing for bistatic and distributed SAR systems.
 
-### Running Locally (Debug & Preview)
+### MIMO-SAR
 
-2. Follow the **step 1** and **step 2** of the instruction [here](https://jekyllrb.com/docs/) to install prerequisites and jekyll.
+Research on multiple-input multiple-output SAR architectures, waveform encoding, echo separation, and high-resolution wide-swath imaging.
 
-3. Clone your forked repository to your local machine.
+### SAR Interferometry
 
-4. Run the following command in the root directory of the repository:
+Research on bistatic and multistatic interferometry, interferometric baseline estimation, phase synchronization, and high-precision DEM generation.
 
-   ```bash
-   bundle exec jekyll serve
-   ```
+### HRWS SAR
 
-5. Browse to the displayed URL to see the website.
+Research on high-resolution wide-swath SAR system design, including multichannel architectures, digital beamforming, ambiguity suppression, and advanced imaging modes.
 
-### Deploying to GitHub Pages
+### Very-Long-Baseline MIMO-SAR
 
-2. Go to the repository settings and enable GitHub Pages. Detailed instructions can be found [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
+Research on future multi-satellite SAR systems with very long inter-satellite baselines, focusing on bistatic geometry, beam positioning, system performance, NESZ, RASR, and AASR.
 
-3. Navigate to your created website, and follow the instructions displayed on the homepage (if any) to finalize the setup.
+---
 
+# 🛰️ Research Projects
+
+## LuTan-1 Spaceborne Bistatic SAR
+
+Research related to the **LuTan-1 (LT-1) spaceborne bistatic SAR mission**.
+
+Main topics include:
+
+* Inter-satellite synchronization
+* Synchronization error analysis
+* Multipath effects on phase synchronization
+* High-precision interferometric baseline estimation
+* Synchronization RFI suppression
+* Bistatic SAR interferometry
+* Cross-track interferometry
+* High-precision DEM generation
+
+Representative work includes the investigation of multipath effects on phase synchronization for LT-1 and advanced bistatic SAR processing techniques.
+
+---
+
+## MIMO-SAR
+
+Research on advanced MIMO-SAR architectures for future high-resolution and wide-swath SAR systems.
+
+Research topics include:
+
+* MIMO-SAR signal modeling
+* Orthogonal waveform encoding
+* Echo separation
+* Virtual delay-emission (VDE)
+* High-resolution imaging
+* Wide-swath imaging
+* Multi-channel signal processing
+* Range and azimuth ambiguity suppression
+
+One of the early experimental studies demonstrated echo separation for orthogonal waveform-encoding MIMO-SAR using airborne data.
+
+---
+
+## Very-Long-Baseline MIMO-SAR
+
+A research direction toward future multi-satellite SAR systems with **very long inter-satellite baselines**.
+
+The research investigates:
+
+* Bistatic SAR geometry
+* Multi-satellite formation design
+* Beam positioning
+* Incidence-angle and PRF constraints
+* NESZ
+* RASR
+* AASR
+* Bistatic imaging performance
+* Large bistatic-angle effects
+* Multi-channel and multi-platform SAR configurations
+
+---
+
+## High-Resolution Wide-Swath SAR
+
+Research on advanced SAR architectures that simultaneously achieve high spatial resolution and wide imaging swath.
+
+Topics include:
+
+* Multichannel SAR
+* Digital beamforming
+* Alternating transmitting mode (ATM)
+* Staggered SAR
+* Variable PRF
+* Azimuth ambiguities
+* Fractional ambiguities
+* Range ambiguity suppression
+* Pulse-width-extension loss compensation
+
+---
+
+# 📚 Selected Publications
+
+## 2026
+
+**Yanyan Zhang, Akira Hirose, Wei Cao, Ryo Natsuaki, et al.**
+
+**Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method**
+
+*IEEE Transactions on Geoscience and Remote Sensing*, 2026.
+
+DOI: [10.1109/TGRS.2026.3695023](https://doi.org/10.1109/TGRS.2026.3695023)
+
+---
+
+## 2024
+
+**Yanyan Zhang, Pingping Lu, Robert Wang, et al.**
+
+**New Insights Into Alternating Transmitting Mode (ATM) for Bistatic Multichannel SAR**
+
+*IEEE Transactions on Geoscience and Remote Sensing*, 2024.
+
+The work investigates the alternating transmitting mode for bistatic multichannel SAR and its implications for system operation and imaging performance.
+
+---
+
+## 2022
+
+**Yanyan Zhang, Shuo Han, Tiantian Wei, Wei Wang, Yunkai Deng, Guodong Jin, Yongwei Zhang, Robert Wang**
+
+**First Demonstration of Echo Separation for Orthogonal Waveform Encoding MIMO-SAR Based on Airborne Experiments**
+
+*IEEE Transactions on Geoscience and Remote Sensing*, Vol. 60, 2022.
+
+DOI: [10.1109/TGRS.2022.3160204](https://doi.org/10.1109/TGRS.2022.3160204)
+
+This work experimentally demonstrates echo separation for orthogonal waveform-encoding MIMO-SAR using airborne SAR data.
+
+---
+
+## 2021
+
+**Yanyan Zhang, Hao Zhang, Shuai Hou, Yunkai Deng, Weidong Yu, Robert Wang**
+
+**An Innovative Superpolyhedron (SP) Formation for Multistatic SAR (M-SAR) Interferometry**
+
+*IEEE Transactions on Geoscience and Remote Sensing*, Vol. 59, No. 12, pp. 10136–10150, 2021.
+
+DOI: [10.1109/TGRS.2021.3051727](https://doi.org/10.1109/TGRS.2021.3051727)
+
+The paper investigates satellite formation design for multistatic SAR interferometry.
+
+---
+
+## 2019
+
+**Yanyan Zhang, Heng Zhang, Naiming Ou, Kaiyu Liu, Da Liang, Yunkai Deng, Robert Wang**
+
+**First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1**
+
+*IEEE Transactions on Geoscience and Remote Sensing*, 2019.
+
+This work investigates multipath effects on the phase synchronization performance of the LT-1 bistatic SAR mission.
+
+---
+
+# 📖 Publications
+
+A complete list of publications can be found on:
+
+* [Google Scholar](#)
+* [ORCID](https://orcid.org/0000-0002-3497-4474)
+* [DBLP](https://dblp.org/)
+* [ResearchGate](#)
+
+---
+
+# 📰 News
+
+### 2026
+
+* 📄 Published research on **MIMO-SAR azimuth resolution enhancement**.
+* 📡 Continued research on **very-long-baseline MIMO-SAR systems**.
+* 🛰️ Continued research on advanced **spaceborne SAR architectures and HRWS imaging**.
+
+### 2025
+
+* 📄 Published research on advanced **MIMO-SAR imaging** and **virtual delay-emission (VDE)** techniques.
+* 🔬 Continued research on high-resolution wide-swath SAR signal processing.
+
+### 2024
+
+* 🛰️ Continued research on **bistatic multichannel SAR** and alternating transmitting mode.
+* 📡 Continued research on spaceborne bistatic SAR synchronization and interferometric processing.
+
+### 2022
+
+* ✈️ Demonstrated **echo separation for orthogonal waveform-encoding MIMO-SAR** using airborne experiments.
+
+### 2021
+
+* 🌍 Published research on **multistatic SAR interferometry and satellite formation design**.
+
+---
+
+# 🎓 Education
+
+### Ph.D. in [Your Major]
+
+**Institute of Electronics, Chinese Academy of Sciences**
+
+Beijing, China
+
+Research topics:
+
+* Spaceborne SAR
+* Bistatic SAR
+* SAR interferometry
+* LT-1 mission
+* Digital elevation model generation
+
+### B.S. in [Your Major]
+
+**[University Name]**
+
+[Year – Year]
+
+---
+
+# 💼 Academic Experience
+
+### The University of Tokyo
+
+Tokyo, Japan
+
+Research on:
+
+* MIMO-SAR
+* High-resolution wide-swath SAR
+* SAR signal processing
+* Advanced spaceborne SAR architectures
+
+### Institute of Electronics, Chinese Academy of Sciences
+
+Beijing, China
+
+Research on:
+
+* LuTan-1 bistatic SAR
+* SAR synchronization
+* Bistatic interferometry
+* DEM generation
+* MIMO-SAR
+
+---
+
+# 🏆 Awards & Honors
+
+* [Award / Fellowship], [Year]
+* [Academic Award], [Year]
+* [Scholarship], [Year]
+
+---
+
+# 💻 Research & Software
+
+I develop research codes and simulation tools for:
+
+* SAR raw-data simulation
+* SAR imaging
+* Back-projection imaging
+* Range-Doppler processing
+* MIMO-SAR echo simulation
+* Bistatic SAR geometry
+* Interferometric processing
+* DEM generation
+* Digital beamforming
+* SAR ambiguity analysis
+* HRWS SAR system analysis
+
+Main programming environments:
+
+`MATLAB` · `Python` · `LaTeX`
+
+---
+
+# 🌍 Applications
+
+My research aims to support high-precision Earth observation applications, including:
+
+* 🌲 Forest height estimation
+* 🗺️ Digital elevation model generation
+* 🌍 Topographic mapping
+* 🧊 Cryosphere monitoring
+* 🌊 Surface deformation monitoring
+* 🌱 Environmental monitoring
+* 🌎 Earth-system science
+
+---
+
+# 🔗 Academic Links
+
+* 🎓 **Google Scholar:** [Yanyan Zhang](#)
+* 🆔 **ORCID:** [0000-0002-3497-4474](https://orcid.org/0000-0002-3497-4474)
+* 💻 **GitHub:** [Yanyan Zhang](#)
+* 🌐 **Academic Homepage:** [yanyanzhang.github.io](#)
+* 📚 **DBLP:** [Yanyan Zhang](https://dblp.org/)
+* 📄 **ResearchGate:** [Yanyan Zhang](#)
+
+---
+
+# 📫 Contact
+
+**Yanyan Zhang**
+
+Tokyo, Japan
+
+📧 Email: `your.email@example.com`
+
+---
+
+<div align="center">
+
+### Synthetic Aperture Radar · MIMO-SAR · Bistatic SAR · InSAR
+
+*Exploring advanced SAR technologies for high-precision Earth observation.*
+
+</div>
