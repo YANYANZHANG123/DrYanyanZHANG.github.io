@@ -14,7 +14,8 @@ His research interests include:
 ---
 
 ## 🎓 Education/Experience
-1) The University of Tokyo, Tokyo, Japan, 2025-present (JSPS Fellow)
+1)
+🖊 The University of Tokyo, Tokyo, Japan, 2025-present (JSPS Fellow)
 🖊 ETH Zurich, Zurich, Switzerland, 2023-2025 (Postdoc)
 🖊 National Key Laboratory of Microwave Imaging, Beijing, China, 2022-2023 (Seinor Scientist)
 🖊 Ph.D. of Engineering, University of Chinese Academy of Sciences, Beijing, China, 2017-2022
