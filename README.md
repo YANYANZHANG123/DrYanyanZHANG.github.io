@@ -30,8 +30,8 @@ My research interests include:
 ---
 
 ## 🎓 Education
-#### Ph.D. in Communication and Information Systems, University of Chinese Academy of Sciences, Beijing, China, 2022
-#### B.S. in Electronic Information Engineering, Hunan University, Changsha, China, 2017
+#### Ph.D. in Communication and Information Systems, University of Chinese Academy of Sciences, Beijing, China, 2017-2022
+#### B.S. in Electronic Information Engineering, Hunan University, Changsha, China, 2013-2017
 ## 💼 Experience
 #### The University of Tokyo, Tokyo, Japan, 2025-present (JSPS Fellow)
 #### ETH Zurich, Zurich, Switzerland, 2023-2025 (Postdoc)
