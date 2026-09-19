@@ -62,42 +62,21 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 
 ---
 
-# 🏆 Awards & Honors
+## 🏆 Awards & Honors
 
 * [Award / Fellowship], [Year]
 * [Academic Award], [Year]
 * [Scholarship], [Year]
 
----
-
-
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=googlescholar)](#)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3497--4474-a6ce39?logo=orcid)](https://orcid.org/0000-0002-3497-4474)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](#)
-
----
-
-# 🔗 Academic Links
-
-* 🎓 **Google Scholar:** [**Yanyan Zhang**](#)
+## 🔗 Academic Links
+* 🎓 **Google Scholar:** [**Yanyan Zhang**](https://scholar.google.com/citations?user=sD4C7tkAAAAJ&hl=en)
 * 🆔 **ORCID:** [0000-0002-3497-4474](https://orcid.org/0000-0002-3497-4474)
-* 💻 **GitHub:** [**Yanyan Zhang**](#)
-* 🌐 **Academic Homepage:** [yanyanzhang.github.io](#)
-* 📚 **DBLP:** [**Yanyan Zhang**](https://dblp.org/)
-* 📄 **ResearchGate:** [**Yanyan Zhang**](#)
 
----
-
-# 📫 Contact
-
+## 📫 Contact
 ****Yanyan Zhang****
-
 Tokyo, Japan
+📧 Email: yanyanzhang@eis.t.u-tokyo.ac.jp / caszyymail@163.com
 
-📧 Email: `your.email@example.com`
-
----
 
 <div align="center">
 
