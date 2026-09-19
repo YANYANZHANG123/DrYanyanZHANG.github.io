@@ -7,10 +7,10 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 
 ## 🔬 Research Interests
 * 🛰️ Distributed SAR (clock synchronization, satellite formation, DEM generation)
-* 📡 HRWS-SAR (azimuth multichannel, elevation digital beamforming, imaging systems)
-* 🌍 MIMO-SAR (orthogonal waveform encoding, echo seperation)
-* ⚡ SAR signal model and imaging method
-* 🌱 SAR applications for Earth observation
+* 📡 HRWS-SAR (azimuth multichannel, elevation digital beamforming, variable PRI)
+* 🌍 MIMO-SAR (orthogonal encoding waveform, echo seperation method)
+* ⚡ SAR imaging mode, signal model, and imaging method
+* 🌱 SAR applications for Earth observation (e.g., TomoSAR)
 
 ## 🎓 Education/Experience
 * The University of Tokyo, Tokyo, Japan, 2025-present (JSPS Post-Doctoral Fellow)
