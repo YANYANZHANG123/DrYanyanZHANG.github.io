@@ -68,7 +68,7 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 * President Prize of the Chinese Academy of Sciences, 2022
 * Sino-DAAD Postdoctoral Fellowships, 2022
 * A finalist for the Best Student Paper Award at the IEEE IGARSS, 2021
-* National scholarship for doctoral students, 2021
+* National scholarship, 2021
 * Best bachelor dissertation of Hunan University, 2017
 * First prize of **NXP Cup** National University Students Intelligent Car Race, 2016
 * Third prize of **TI Cup** Hunan College Students Electronics Design Contest, 2016
