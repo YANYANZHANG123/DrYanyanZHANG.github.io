@@ -68,14 +68,13 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 * President Prize of the Chinese Academy of Sciences, 2022
 * Sino-DAAD Postdoctoral Fellowships, 2022
 * A finalist for the Best Student Paper Award at the IEEE IGARSS, 2021
-* National scholarship, 2021
 * Best bachelor dissertation of Hunan University, 2017
-* First prize of **NXP Cup** National University Students Intelligent Car Race, 2016
-* Third prize of **TI Cup** Hunan College Students Electronics Design Contest, 2016
 
 ## 📄 Academic Roles
-* Guest editor for two Special Issues in **Remote Sensing**
+* Guest editor for Special Issues in **Remote Sensing**
 * IEEE International Conference on Signal Processing and Information Security, TPC, 2026
+* IEEE IGARSS, TPC, 2026
+* IEEE IGARSS, TPC, 2025
 * Session Chair for IEEE IGARSS 2025
 * Session Co-Chair for EUSAR 2024
 * Invited reviewer for IEEE TGRS/IEEE TIP/IEEE TAES/ IEEE TRS/IEEE JSTARS/IEEE GRSL/IEEE Access/ ISPRS Journal of Photogrammetry and Remote Sensing/Communications Earth and Environment/IEEE Sensors Journal/Remote Sensing/Remote Sensing Letters/IEE Electronics Letters/IGARSS...
