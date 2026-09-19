@@ -1,4 +1,4 @@
-<img src="zhang.png" width="212" height="265" alt="**Yanyan Zhang**">
+<img src="zhang.png" width="191" height="239" alt="**Yanyan Zhang**">
 
 ## 👨‍🔬 Biography
 He has been conducting research on Synthetic Aperture Radar (SAR) since 2016, with a particular focus on system design and signal processing for bistatic and multistatic SAR, as well as high-resolution and wide-swath (HRWS) SAR.
