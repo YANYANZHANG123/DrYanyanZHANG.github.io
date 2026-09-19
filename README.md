@@ -22,7 +22,7 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 ---
 
 ## 🛰️ Achievements as first author
-* **Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method**, *IEEE Transactions on Geoscience and Remote Sensing*, 2026.
+* Yanyan Zhang, Akira Hirose, Ryo Natsuaki, **Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method**, *IEEE Transactions on Geoscience and Remote Sensing*, 2026.
 * **Virtual Delay-Emission (VDE): An HRWS Imaging Mode for Spaceborne MIMO-SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2025.
 * **A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SAR**, *IEEE Geoscience and Remote Sensing Letters*, 2025.
 * **New Insights Into Alternating Transmitting Mode (ATM) for Bistatic Multichannel SAR**, *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
