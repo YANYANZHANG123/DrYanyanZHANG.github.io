@@ -74,7 +74,6 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 
 ## 📫 Contact
 ****Yanyan Zhang****
-Tokyo, Japan
 📧 Email: yanyanzhang@eis.t.u-tokyo.ac.jp / caszyymail@163.com
 
 
