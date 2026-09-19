@@ -21,7 +21,7 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * 🖊 B.S. of Engineering, Hunan University, Changsha, China, 2013-2017
 ---
 
-## 🛰️ Achievements as first author
+## 🛰️ Publications
 * **Yanyan Zhang**, Akira Hirose, Wei Cao, Ryo Natsuaki, Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method, *IEEE Transactions on Geoscience and Remote Sensing*, 2026.
 * **Yanyan Zhang**, Akira Hirose, Ryo Natsuaki, Virtual Delay-Emission (VDE): An HRWS Imaging Mode for Spaceborne MIMO-SAR, *IEEE Geoscience and Remote Sensing Letters*, 2025.
 * **Yanyan Zhang**, Akira Hirose, Ryo Natsuaki, A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SAR, *IEEE Geoscience and Remote Sensing Letters*, 2025.
@@ -36,7 +36,8 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * **Yanyan Zhang**, Sheng Chang, Robert Wang, Yunkai Deng, An Innovative Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR, *IEEE Transactions on Geoscience and Remote Sensing*, 2021.
 * **Yanyan Zhang**, Hao Zhang, Shuai Hou, Yunkai Deng, Weidong Yu, Robert Wang, An Innovative Superpolyhedron (SP) Formation for Multistatic SAR (M-SAR) Interferometry, *IEEE Transactions on Geoscience and Remote Sensing*, 2021.
 * **Yanyan Zhang**, Robert Wang, Wei Wang, Yunkai Deng, An Innovative Multiswath Jump Imaging Mode for Spaceborne SAR, *IEEE Geoscience and Remote Sensing Letters*, 2020.
-* **Yanyan Zhang**, Heng Zhang, Naiming Ou, Kaiyu Liu, Da Liang, Yunkai Deng, Robert Wang, First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
+* \color{red}{**Yanyan Zhang**, Heng Zhang, Naiming Ou, Kaiyu Liu, Da Liang, Yunkai Deng, Robert Wang, First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.}
+
 ---
 
 # 📚 Selected Publications
