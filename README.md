@@ -77,7 +77,7 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 * IEEE IGARSS, Scientific Committee, 2025
 * Session Chair for IEEE IGARSS 2025
 * Session Co-Chair for EUSAR 2024
-* Invited reviewer for IEEE TGRS/IEEE TIP/IEEE TAES/ IEEE TRS/IEEE JSTARS/IEEE GRSL/IEEE Access/ ISPRS Journal of Photogrammetry and Remote Sensing/Communications Earth and Environment/IEEE Sensors Journal/Remote Sensing/Remote Sensing Letters/IEE Electronics Letters/IGARSS...
+* Invited reviewer for IEEE TGRS/IEEE TIP/IEEE TAES/ IEEE TRS/IEEE JSTARS/IEEE GRSL/IEEE Access/ ISPRS Journal of Photogrammetry and Remote Sensing/Communications Earth and Environment/IEEE Sensors Journal/Remote Sensing/Remote Sensing Letters/IEE Electronics Letters...
 
 ## 🔗 Academic Links
 * 💼 **Linkedin:** [Yanyan Zhang](https://www.linkedin.com/in/yanyan-zhang-2b35b4307/)
