@@ -73,8 +73,8 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 ## 📄 Academic Roles
 * Guest editor for Special Issues in **Remote Sensing**
 * IEEE International Conference on Signal Processing and Information Security, TPC, 2026
-* IEEE IGARSS, TPC, 2026
-* IEEE IGARSS, TPC, 2025
+* IEEE IGARSS, Scientific Committee, 2026
+* IEEE IGARSS, Scientific Committee, 2025
 * Session Chair for IEEE IGARSS 2025
 * Session Co-Chair for EUSAR 2024
 * Invited reviewer for IEEE TGRS/IEEE TIP/IEEE TAES/ IEEE TRS/IEEE JSTARS/IEEE GRSL/IEEE Access/ ISPRS Journal of Photogrammetry and Remote Sensing/Communications Earth and Environment/IEEE Sensors Journal/Remote Sensing/Remote Sensing Letters/IEE Electronics Letters/IGARSS...
