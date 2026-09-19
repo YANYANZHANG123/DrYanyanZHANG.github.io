@@ -68,6 +68,7 @@ He is currently a JSPS Post-Doctoral Fellow with the Hirose & Natsuaki Laborator
 * Best doctoral dissertation of the Chinese Academy of Sciences, 2023
 * President Prize of the Chinese Academy of Sciences, 2022
 * Sino-DAAD Postdoctoral fellowship, 2022
+* A finalist for the Best Student Paper Award at the IEEE IGARSS, 2021
 
 ## 🔗 Academic Links
 * 🎓 **Google Scholar:** [Yanyan Zhang](https://scholar.google.com/citations?user=sD4C7tkAAAAJ&hl=en)
